@@ -1,0 +1,63 @@
+.background{
+    background-color:whitesmoke;
+}
+
+.blockcolor{
+    background-image: linear-gradient(white, darkgrey,whitesmoke);
+    border-radius: 1px;
+} 
+.margin{
+    margin-inline: 10px;
+    border: 2px solid lightgray;
+    position: relative;
+}
+ 
+img{
+    float: none;
+    margin: 1%;
+    max-width: 100%;
+    height: auto;   
+}
+h1{
+    font-family:'Haettenschweiler';
+    color:crimson;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Cambria';
+}
+
+p{
+    font-family: 'Cambria';
+}
+
+.imagealign{
+    text-align: center;
+    display: block;
+}
+
+.table-text{
+    text-align: center;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    padding: 3px 7px 3px 3px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+ /* Style the active class, and buttons on mouse-over */
+ .active1, .btn:hover {
+    background-color: #666;
+    color: white;
+ }
+
+ @media screen and (max-width: 700px) {
+    .navc {
+        background-color: #1bd88f;
+    }
+ }
