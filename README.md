@@ -4,5 +4,5 @@ In building this dashboard, I created individual pages for each plot and a means
 
 Use the below link to view the page
 ```
-https://ramneekc.github.io/Web-Design-Challenge/
+https://ramneekc.github.io/Web-Design/
 ```
